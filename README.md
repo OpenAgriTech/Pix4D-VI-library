@@ -1,6 +1,6 @@
-# Pix4D-VI-library
+# Pix4D-Vegetation Index-library
 
-A collection of Vegetation Indicies for direct use in Pix4Dmapper. 
+A collection of Vegetation Indices for direct use in Pix4Dmapper. 
 
 This has been developed with the Micasense MX in mind. Contributions are welcome! 
 
